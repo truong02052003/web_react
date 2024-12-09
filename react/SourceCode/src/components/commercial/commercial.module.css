@@ -1,0 +1,121 @@
+.thumbnailImg {
+    width: 100%;
+}
+
+.thumbnailText {
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 15px;
+    color: #1F2833;
+}
+
+.thumbnailH1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #1F2833;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.introP {
+    text-align: left; /* Căn lề trái */
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.introImg {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.comUsesH1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #1F2833;
+    font-weight: bolder;
+}
+
+.comUsesP {
+    text-align: left; /* Căn lề trái */
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.comUsesImg {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.comUsesUl {
+    color: #1F2833;
+    font-size: 20px;
+    display: list-item;
+    list-style: square;
+    width: 30%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 15px 0;
+}
+
+
+.comUsesLi {
+    display: inline-block; 
+    text-align: left; 
+    font-size: 20px;
+    color: #1F2833;
+    margin: 15px 0; 
+}
+
+.comExplainH1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #1F2833;
+    font-weight: bolder;
+}
+
+.comExplainP {
+    text-align: left; /* Căn lề trái */
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.comSurExplainH2 {
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-right: 50px;
+}
+
+.comSurExplainP {
+    text-align: left; /* Căn lề trái */
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.comSurExplainImg {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.comSurProsH2 {
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 40px;
+    padding-right: 50px;
+}

@@ -1,0 +1,90 @@
+/* styles.module.css */
+
+/* Body */
+.body {
+    font-size: 20px;
+    color: #1F2833;
+    margin: 0 auto;
+}
+
+/* Title text */
+.titleText {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    color: #1F2833;
+}
+
+/* Smaller title */
+.leftTitleText {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    color: #1F2833;
+}
+
+/* Adjust based on browser width */
+@media only screen and (min-width: 1300px) {
+    .p {
+        margin: 0 230px;
+    }
+
+    .uListText {
+        margin: 0 25px;
+        margin-top: 20px;
+    }
+
+    .oListText {
+        margin-left: 145px;
+    }
+
+    .leftTitleText {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .p {
+        margin: 0 180px;
+    }
+
+    .uListText {
+        margin: 0 200px;
+    }
+
+    .oListText {
+        margin: 0 200px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .p {
+        margin: 0 130px;
+    }
+
+    .uListText {
+        margin: 0 148px;
+    }
+
+    .oListText {
+        margin: 0 148px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .p {
+        margin: 0;
+    }
+
+    .uListText {
+        margin: 0 19px;
+    }
+
+    .oListText {
+        margin: 0 19px;
+    }
+}
